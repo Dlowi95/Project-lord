@@ -1,0 +1,10 @@
+{
+    "require": {
+        "gloudemans/shoppingcart": "^2.6"
+    },
+    "config": {
+        "allow-plugins": {
+            "kylekatarnls/update-helper": true
+        }
+    }
+}
