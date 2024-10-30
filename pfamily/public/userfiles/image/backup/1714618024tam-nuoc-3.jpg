@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trang web đang trong quá trình bảo trì</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding: 50px;
+        }
+        h1 {
+            font-size: 36px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Trang web đang trong quá trình bảo trì</h1>
+    <p>Xin lỗi vì sự bất tiện này, chúng tôi đang cập nhật trang web để nâng cao trải nghiệm của bạn. Vui lòng quay lại sau.</p>
+</body>
+</html>
