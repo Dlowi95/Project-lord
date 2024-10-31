@@ -170,7 +170,7 @@ class CartService  implements CartServiceInterface
                     'name' => $val->name,
                     'qty' => $val->qty,
                     'price' => $val->price,
-                    'priceOriginal' => $val->priceOriginal,
+                    'priceOriginal' => $val->priceOriginal ?? $val->price,
                     'option' => json_encode($val->options),
                 ];
             }

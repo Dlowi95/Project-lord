@@ -1,9 +1,7 @@
-import Echo from 'laravel-echo';
-import io from 'socket.io-client';
+import './bootstrap';
 
-window.io = io;
+import Alpine from 'alpinejs';
 
-window.Echo = new Echo({
-    broadcaster: 'socket.io',
-    host: 'http://laravelversion1.com:6001' 
-});
+window.Alpine = Alpine;
+
+Alpine.start();

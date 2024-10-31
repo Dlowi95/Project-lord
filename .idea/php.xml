@@ -147,6 +147,7 @@
       <path value="$PROJECT_DIR$/pfamily/vendor/symfony/mime" />
       <path value="$PROJECT_DIR$/pfamily/vendor/symfony/string" />
       <path value="$PROJECT_DIR$/pfamily/vendor/darryldecode/cart" />
+      <path value="$PROJECT_DIR$/pfamily/vendor/laravel/breeze" />
     </include_path>
   </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="8.1" />
